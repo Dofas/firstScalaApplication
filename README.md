@@ -1,0 +1,2 @@
+# firstScalaApplication
+First Scala Application
